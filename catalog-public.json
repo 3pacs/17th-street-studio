@@ -1,0 +1,3869 @@
+{
+  "stats": {
+    "tracks": 423,
+    "acts": 95
+  },
+  "acts": [
+    {
+      "name": "Fortunate Youth",
+      "ig": null,
+      "track_count": 60
+    },
+    {
+      "name": "Dirty Heads",
+      "ig": null,
+      "track_count": 48
+    },
+    {
+      "name": "Seedless",
+      "ig": null,
+      "track_count": 30
+    },
+    {
+      "name": "Nice & Swell",
+      "ig": null,
+      "track_count": 19
+    },
+    {
+      "name": "New Reb",
+      "ig": null,
+      "track_count": 16
+    },
+    {
+      "name": "Long Beach Dub Allstars",
+      "ig": null,
+      "track_count": 14
+    },
+    {
+      "name": "Micah Brown",
+      "ig": null,
+      "track_count": 14
+    },
+    {
+      "name": "Slightly Stoopid",
+      "ig": null,
+      "track_count": 14
+    },
+    {
+      "name": "Sublime with Rome",
+      "ig": null,
+      "track_count": 12
+    },
+    {
+      "name": "Wheeland Brothers",
+      "ig": null,
+      "track_count": 11
+    },
+    {
+      "name": "Iration",
+      "ig": null,
+      "track_count": 10
+    },
+    {
+      "name": "South Swell Syndicate",
+      "ig": null,
+      "track_count": 10
+    },
+    {
+      "name": "Dubbest",
+      "ig": null,
+      "track_count": 7
+    },
+    {
+      "name": "Rebel Shakedown",
+      "ig": null,
+      "track_count": 7
+    },
+    {
+      "name": "Mike Pinto",
+      "ig": null,
+      "track_count": 6
+    },
+    {
+      "name": "The Goodies",
+      "ig": null,
+      "track_count": 6
+    },
+    {
+      "name": "Vibestrong",
+      "ig": null,
+      "track_count": 5
+    },
+    {
+      "name": "Arise Roots",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Fayuca",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Los Domingueros",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Nick Sabia",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Roots of Mine",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Rumble King",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Shakamon",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "The Tones",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Tim Hayn",
+      "ig": null,
+      "track_count": 4
+    },
+    {
+      "name": "Capital Dub",
+      "ig": null,
+      "track_count": 3
+    },
+    {
+      "name": "Jahtiva",
+      "ig": null,
+      "track_count": 3
+    },
+    {
+      "name": "Jake Hitt",
+      "ig": null,
+      "track_count": 3
+    },
+    {
+      "name": "Low Budget",
+      "ig": null,
+      "track_count": 3
+    },
+    {
+      "name": "Lukup",
+      "ig": null,
+      "track_count": 3
+    },
+    {
+      "name": "Philieano",
+      "ig": "https://instagram.com/philieano",
+      "track_count": 3
+    },
+    {
+      "name": "Zen Robbi",
+      "ig": null,
+      "track_count": 3
+    },
+    {
+      "name": "Cali Conscious",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Cope",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Dread Kennedy",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Fluid Foundation",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Headshine",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Herb N' Life",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Jet West",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Jimi Fitz",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Maya Burns",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "My Ruca",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Pacific Dub",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Papafish",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Rebelution",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "The Originalites",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "Villebillies",
+      "ig": null,
+      "track_count": 2
+    },
+    {
+      "name": "80 Proof",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Bobby Hustle, Dread Kennedy & Shakamon",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Buddy Princeton and the Incorruptibles",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Costa Concentrates",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Del Sol Music",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Doah's Daydream",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Ease Up",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Effie Passero",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "El Dub",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Elena Ramirez",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Essel (Susie Liufau)",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Essel Liufau",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "F!sh",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Fiji",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Fiji & Common Kings",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Inna Vision",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "J.A.M KwesT",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Jahtiva & F!sh",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "John Landry",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Jon Wayne and the Pain",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Juan Rios",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Kash'd Out",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Kat Hall",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Kat Nestel (Katt)",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "KBong",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Kyle Smith",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Lewis Richards (feat. Ronnie King & Ian Foreman)",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Man of the Forests",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Mix Mob",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "One Draw",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Phat Reggae Dub Status",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Pilot Touhill",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Project Out of Bounds (POB)",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Quinn Archer",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Rebel ShakeDown",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Slaves to Humanity",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Sono Vero",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Stone Ave Revue",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Swingin' Johnny",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "The B Foundation",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "The Doobie Raider",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "The Good Tones",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "The Resinators",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "The Side Deal",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Thicker Than Thieves",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Thrive",
+      "ig": null,
+      "track_count": 1
+    },
+    {
+      "name": "Vince Lui",
+      "ig": null,
+      "track_count": 1
+    }
+  ],
+  "tracks": [
+    {
+      "act": "Arise Roots",
+      "track": "Be Like You",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1i04KpsSkFPEmjOrkLZ1CR",
+      "youtube_url": "https://www.youtube.com/watch?v=cxNCL9h4vE0"
+    },
+    {
+      "act": "Arise Roots",
+      "track": "Just Another Guy",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/11pGlQqa7tTaHNqUlSZQgp",
+      "youtube_url": "https://www.youtube.com/watch?v=Iway_WRHwis"
+    },
+    {
+      "act": "Arise Roots",
+      "track": "Rootsman Town",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3F9dgVwfy8SZha5IWwztiM",
+      "youtube_url": "https://www.youtube.com/watch?v=Z8uXng5-qCQ"
+    },
+    {
+      "act": "Bobby Hustle, Dread Kennedy & Shakamon",
+      "track": "Chase Dem",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1EPtIgUdwplOHNUYNk9sMA",
+      "youtube_url": "https://www.youtube.com/watch?v=o8O6r9jt_do"
+    },
+    {
+      "act": "Capital Dub",
+      "track": "Dancehall Queen feat. King Yellowman",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6QSXB1RW8gVD6RyhwDHGK2",
+      "youtube_url": "https://www.youtube.com/watch?v=ehcItMDNazQ"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Antelope",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/0k9My7otkdsNVItdrdgTiw",
+      "youtube_url": "https://www.youtube.com/watch?v=QGTXA-FNVeU"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Arrival",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/6FwoDkPCCwIcxuzgWBgyDu",
+      "youtube_url": "https://www.youtube.com/watch?v=eP2A9BoCjuk"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Believe",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/0czYhHSF6q5Gm617RQmUA2",
+      "youtube_url": "https://www.youtube.com/watch?v=M2cPj8So6jQ"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Best of Us",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/3w8q1km1xsQnuEDVbzvJ1s",
+      "youtube_url": "https://www.youtube.com/watch?v=7csfms8PsgA"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Burn by Myself",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/0EsU79WX5Q59r1azjkRgCp",
+      "youtube_url": "https://www.youtube.com/watch?v=eUCD_Con08U"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Cabin by the Sea",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/0h5iqrHPyMjkW1tzDKotlN",
+      "youtube_url": "https://www.youtube.com/watch?v=MP2FrFBGEfs"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Check the Level",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/16cakH9WAJ3C4eI50f5WSB",
+      "youtube_url": "https://www.youtube.com/watch?v=fPCTEVWjZGc"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Chelsea",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/15wWnSAo8ecVaxkU6Hha4a",
+      "youtube_url": "https://www.youtube.com/watch?v=0GI4caf1W9I"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Coming Home",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/1iFpUudnDcS7rsrAN0hgBG",
+      "youtube_url": "https://www.youtube.com/watch?v=YcWoQgwZUVo"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Crazy Bitches (digital bonus track)",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/2bI1qiKlkCOPHKG14eeQ5M",
+      "youtube_url": "https://www.youtube.com/watch?v=DDfJmU5dFKw"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Day by Day",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/1NoCZ187Z78b8Z9KPNrura",
+      "youtube_url": "https://www.youtube.com/watch?v=nxQgGYn_xoM"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Disguise",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/0yspn2SxdAj9wEafvk1Tt8",
+      "youtube_url": "https://www.youtube.com/watch?v=Jox_zffd4Uo"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Driftin",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/5HU38N38LDExN8oCyBfkLK",
+      "youtube_url": "https://www.youtube.com/watch?v=Jw6OY9vTRf4"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Easy",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/03N1O8XRTFCaRsvlAANcoy",
+      "youtube_url": "https://www.youtube.com/watch?v=J8Z46rpDSPc"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Everything I'm Looking For",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/4JnvKC2kV8UwkW6EXh6FbA",
+      "youtube_url": "https://www.youtube.com/watch?v=snm6l2Y1aO0"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Farewell",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/00JKEtmEOpJ3xheX6T1Tuc",
+      "youtube_url": "https://www.youtube.com/watch?v=bIxGiTUi7WU"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Garland",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/0nnnwcKSSXlhhmueeF0GZI",
+      "youtube_url": "https://www.youtube.com/watch?v=v5Ol1uFoGKM"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Gold to Me",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/3x1iU7coxD8onsyv9RAszb",
+      "youtube_url": "https://www.youtube.com/watch?v=Ztr7SCtlex8"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Headphones",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/5R72wqaZbOwzlB4HccRz0E",
+      "youtube_url": "https://www.youtube.com/watch?v=5liFoW1Rmhs"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Higher and Higher",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/7azNjfWeNfUt6LEneRxflO",
+      "youtube_url": "https://www.youtube.com/watch?v=SZbwwSzlr5c"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Hip Hop Misfits",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/0Qw7i43X5zPUpod1Dlb2JP",
+      "youtube_url": "https://www.youtube.com/watch?v=zQILXVvpybs"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Hipster",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/0uuHbJNslgwxIYanpHqxKb",
+      "youtube_url": "https://www.youtube.com/watch?v=xhk4kdQSyZA"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "I Got No Time",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/24gJiYA0IvYRRn9tRdHrFi",
+      "youtube_url": "https://www.youtube.com/watch?v=y8G0kydf_vw"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Insomnia",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6m8YC44K8uR7T3ipj7EHYt",
+      "youtube_url": "https://www.youtube.com/watch?v=RFGgmk5B7WU"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Intro (Anchors Up)",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/2YgDhBLX5LEhs4mmeybUNE",
+      "youtube_url": "https://www.youtube.com/watch?v=SfGT5142SKM"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Knows That I",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/4uuUgzscK6zbp6xasqiPbc",
+      "youtube_url": "https://www.youtube.com/watch?v=KuEQZyo-ta4"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Lay Me Down (feat. Rome Ramirez)",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/1dFOd1FVF0W3RNocO5kxav",
+      "youtube_url": "https://www.youtube.com/watch?v=b6EDLIPDYbI"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Lonely One",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/2M9TrmOCPxjYdd8bXzs6YY",
+      "youtube_url": "https://www.youtube.com/watch?v=oVeu3dQlxXA"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Love Letters",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/6z3BFKRZ7cvB82hH4L008W",
+      "youtube_url": "https://www.youtube.com/watch?v=5CBgf2kVKvc"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Mongo Push (feat. Rome Ramirez)",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/6a4MAJg1ieLhENwkwLp5Zu",
+      "youtube_url": "https://www.youtube.com/watch?v=1xu55rI73ig"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Morning Light",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/12U9LWBSXTf2p8CZ823CEu",
+      "youtube_url": "https://www.youtube.com/watch?v=Q5rhBdB2OdM"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Neighborhood",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6JnBgqIPqeysu6OEJ6x8SH",
+      "youtube_url": "https://www.youtube.com/watch?v=JXbwYzErrWY"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Notice",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/4vM5xMpGT8PVx7qlkFKVo1",
+      "youtube_url": "https://www.youtube.com/watch?v=Ww695RrxCu8"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Outro (Beast of the Lake)",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/1oeKsIEIp1PLO8GPI1Bhs3",
+      "youtube_url": "https://www.youtube.com/watch?v=RlwkURNB__I"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Phantom",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/6ecQkz2BVzXKdQ5a68SzVl",
+      "youtube_url": "https://www.youtube.com/watch?v=T7FSF0J7OF8"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Rains It Pours",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/0pADoTQfIPpXMKOGSufTu2",
+      "youtube_url": "https://www.youtube.com/watch?v=Ww5OQ1ygXjY"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Sails to the Wind",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/7EGJtxEj8TT0nb2dPRWzEi",
+      "youtube_url": "https://www.youtube.com/watch?v=5z5kFchyyRw"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Shine",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6vl9oOYx5FXrM3oXswSTnZ",
+      "youtube_url": "https://www.youtube.com/watch?v=0fqyHd-kCck"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Smoke Rings (feat. Del the Funky Homosapien)",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/2OXXDSFGZcHvnRj80OrnK5",
+      "youtube_url": "https://www.youtube.com/watch?v=SUvFG2GCG-c"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Spread Too Thin",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/0jDoKva1iGnB1yYsOph27M",
+      "youtube_url": "https://www.youtube.com/watch?v=hnsOku9c5I0"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Stand Tall",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/02ypv5cnkwTGBCMfhpRT86",
+      "youtube_url": "https://www.youtube.com/watch?v=pAoao9FkHwE"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Strike Gently",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/6HkF0XsrPL42GfMUa6t4Pv",
+      "youtube_url": "https://www.youtube.com/watch?v=SP4AzPN5ukk"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Taint",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6xI79DpcRUTONIOreJZ7Ze",
+      "youtube_url": "https://www.youtube.com/watch?v=r04rD5uQnuY"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Viva la Vida (Acoustic)",
+      "release": "Any Port in a Storm (Special Edition, 2010)",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/2UB10V0liutP9oIE4CIdBk",
+      "youtube_url": "https://www.youtube.com/watch?v=3YzVUF3GP4g"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Warming Sun",
+      "release": "Home | Phantoms of Summer: The Acoustic Sessions (2013)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/4FIsW6ixKR4YgBP2xnkFFh",
+      "youtube_url": "https://www.youtube.com/watch?v=Bc80OiZwdcg"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "We Will Rise",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/5TelY2LOwtFj1jL75ah2RP",
+      "youtube_url": "https://www.youtube.com/watch?v=-qrYvRBL22I"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Your Love (feat. Ky-Mani Marley)",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/7D7JJ8dCwX91dznZGnCX5s",
+      "youtube_url": "https://www.youtube.com/watch?v=0UJL94d50A4"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Ali's Song",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/0tIJOk6jwmwC6Cl1xjoExM",
+      "youtube_url": "https://www.youtube.com/watch?v=oWd69-VU5VY"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Alibi",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/0VOiu4o8fCTjOkh2LfqOV1",
+      "youtube_url": "https://www.youtube.com/watch?v=kKwwnq_Rivk"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Around The World (feat. Mellow Mood)",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/0PaMOhsp96fKHGFNrnmR81",
+      "youtube_url": "https://www.youtube.com/watch?v=vS5TVVOgUmo"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Burning With You",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/1gzSxL5Gxpcj38947OT8eM",
+      "youtube_url": "https://www.youtube.com/watch?v=8cwuk7-95yQ"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Dial My Number (feat. Kumar Bent)",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": "https://open.spotify.com/track/0gFmb1WF33Mbejz8iceetM",
+      "youtube_url": "https://www.youtube.com/watch?v=T9WGPe6WYxk"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Em Interlude",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/7KGviWbYwMwb6NkTVVajnk",
+      "youtube_url": "https://www.youtube.com/watch?v=DgdkAg4cqiU"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Farmer (feat. Juan Rios of Seedless)",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/5KZyvsgUFrhAv6mFb2EUmn",
+      "youtube_url": "https://www.youtube.com/watch?v=nDjRWAdOnbY"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Friend",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/5Saf1k9ySze6QMNWFWe4uw",
+      "youtube_url": "https://www.youtube.com/watch?v=s4oTwIhVG0g"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Friends & Family",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": "https://open.spotify.com/track/6V7PbkptqXDcyzLHr1HjKX",
+      "youtube_url": "https://www.youtube.com/watch?v=pAsI5jC2JG4"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Good Times (Roll On)",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/1mdvVS6g1pVjCcUfeMCmQD",
+      "youtube_url": "https://www.youtube.com/watch?v=pbNsG2FnIpM"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Groovin (feat. Iya Terra)",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/7w6ypNc7j4dBRfJzVjMebG",
+      "youtube_url": "https://www.youtube.com/watch?v=GyUvFSLX1lw"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "I.S.M.",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/3AkLgYpT8MlublbD3wV72A",
+      "youtube_url": "https://www.youtube.com/watch?v=0VSAdOXO794"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Irie State (feat. Kyle McDonald)",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": "https://open.spotify.com/track/4KUKGqt4ewa9UINqVt1Ups",
+      "youtube_url": "https://www.youtube.com/watch?v=0DvBqhsuFSM"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "It's All A Jam",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/0N80h0gDK5mMxX07EMV2HS",
+      "youtube_url": "https://www.youtube.com/watch?v=jcdSPTmy4ow"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Jah Music (feat. Matt Liufau of Seedless)",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/3qFz86DIPsYPlGjL43Ksbz",
+      "youtube_url": "https://www.youtube.com/watch?v=GXyTCBmjAAE"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Left My Love In California",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": "https://open.spotify.com/track/4GgI93t32MuxYBQBmE68CG",
+      "youtube_url": "https://www.youtube.com/watch?v=dia40-oSE5w"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Love Is the Most High",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/4OYa0n6GjNcj3SNN5JgNyJ",
+      "youtube_url": "https://www.youtube.com/watch?v=I7a5AwcvwvE"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Love Won't Leave Me Alone",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/2AYaMGEuQsYz3AgXT4a95H",
+      "youtube_url": "https://www.youtube.com/watch?v=FywicivKQnY"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Melody",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/3x7dkgck9OGn1xXMCqVWLq",
+      "youtube_url": "https://www.youtube.com/watch?v=VCk9sctjN-Y"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Midnight Lover",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": "https://open.spotify.com/track/6gLD0QCcAbyxVkoU3F5C3y",
+      "youtube_url": "https://www.youtube.com/watch?v=Nv762fs2hus"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Moog Lude",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/2hdbyHMwHKT7IuTsXM3Rvj",
+      "youtube_url": "https://www.youtube.com/watch?v=Om65vhv6XMc"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "My Love",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": "https://open.spotify.com/track/59JoigubiPDrtvMTEerN5p",
+      "youtube_url": "https://www.youtube.com/watch?v=a3IluDDM3iQ"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "One & Only",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": "https://open.spotify.com/track/2sy0Ampt1NXp3Tt8aCZJYN",
+      "youtube_url": "https://www.youtube.com/watch?v=Fg8Tzk5PHQY"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "One Love",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/2Zhmk2qSiQQgmyStgDPMDC",
+      "youtube_url": "https://www.youtube.com/watch?v=0tMAxFjrhBM"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Pass The Herb (feat. Marlon Asher, The Green)",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": "https://open.spotify.com/track/5ZPWKoNFhdA77Pse30QICT",
+      "youtube_url": "https://www.youtube.com/watch?v=8PXjFemJ-VE"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Peace, Love And Unity (feat. Zion Thompson)",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/2EfawyFUOPCXx7IZxhOuxH",
+      "youtube_url": "https://www.youtube.com/watch?v=UKXwWe9c-fA"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Positive",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/4lW6HTDgyixxWdnWvduZdn",
+      "youtube_url": "https://www.youtube.com/watch?v=fEtzTDbApZU"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Reggae Radio",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/1XRZwC6c6Z9APSIjKLHtxU",
+      "youtube_url": "https://www.youtube.com/watch?v=MAl6hSOZvrQ"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Riddim Rydah (feat. Dread Kennedy, Skillinjah)",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/4RafUvdqQQENPPqVBUHQnK",
+      "youtube_url": "https://www.youtube.com/watch?v=SZgPelshVS0"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Skankin",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/1nxem2bB2bj5jixWkPHtQ0",
+      "youtube_url": "https://www.youtube.com/watch?v=KaT0Glj5mok"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "So Rebel",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/7a9YX0VLGF0E35rnsQD4sx",
+      "youtube_url": "https://www.youtube.com/watch?v=nqcy-rz1gnc"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Some Might Say",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/28U05BVPtTYBtgV4bjPpiD",
+      "youtube_url": "https://www.youtube.com/watch?v=tCU1KTt2wmU"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Sunlight",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/4j3UBUTEpmXgfgl8V4ItKx",
+      "youtube_url": "https://www.youtube.com/watch?v=QD27ajA21a0"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Sweet Love",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/7tRkU6NbnHK7Ir16tsZpk8",
+      "youtube_url": "https://www.youtube.com/watch?v=AWOLDJt7nLM"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Sweet Sensi (feat. Josh Heinrichs, Steffano Lasso, Steve Jacobo)",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/1wWhm2iMCaXLNDOkdqmCPJ",
+      "youtube_url": "https://www.youtube.com/watch?v=o2kV_XledkY"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "The City",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/2Nkh9OWONZEBl503ZJzz9h",
+      "youtube_url": "https://www.youtube.com/watch?v=lTLnUTSeYJU"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "The Cure",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/29sP004lEGX5qPR4iHvQDt",
+      "youtube_url": "https://www.youtube.com/watch?v=YbQVXe1ooTQ"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "The Situation",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/3Nk9cbyM4sIllhtvfCr7kN",
+      "youtube_url": "https://www.youtube.com/watch?v=oBbC7bEWCRY"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Things",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": "https://open.spotify.com/track/6maK0qdMYIOFU2s5fcLFCy",
+      "youtube_url": "https://www.youtube.com/watch?v=P7Gz83f1yHs"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Till The End",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/12TxacarP4ckSuQCKIi5Mf",
+      "youtube_url": "https://www.youtube.com/watch?v=specUvdHrXQ"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Too Big",
+      "release": "Good Times (Roll On)",
+      "year": "2021",
+      "spotify_url": "https://open.spotify.com/track/4nr2Mq2B79EBuHNwfUw11Q",
+      "youtube_url": "https://www.youtube.com/watch?v=lIvsjYjC-B0"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Tossin",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/0M7CWUSX2RVmrv6AJ9XvZB",
+      "youtube_url": "https://www.youtube.com/watch?v=0Qbtp3QEj6Q"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Trippin",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/7nGhbhJyCL93AnZC9072PC",
+      "youtube_url": "https://www.youtube.com/watch?v=4u5sVGXlmEc"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Vibes",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": "https://open.spotify.com/track/7iqvoUFHlfB7tFf6lW5p4a",
+      "youtube_url": "https://www.youtube.com/watch?v=nh2kXXQ3GnE"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Vibration Dub",
+      "release": "It's All A Jam",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/3NfCpLj4l6Y8CckzbJIBC3",
+      "youtube_url": "https://www.youtube.com/watch?v=gQzVUzQLvws"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Wasting Away",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": "https://open.spotify.com/track/0MbbBw1BybZuv2qLgKv9Bx",
+      "youtube_url": "https://www.youtube.com/watch?v=3yyeOm4QAK8"
+    },
+    {
+      "act": "Iration",
+      "track": "Turn Around (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/1qYvh0Ef79gJOY5Y4gvj8C",
+      "youtube_url": "https://www.youtube.com/watch?v=ZDJOzUAPpNQ"
+    },
+    {
+      "act": "Jahtiva",
+      "track": "Ghost Train",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7a3Ly0JH5cSvQRMjiiByX9",
+      "youtube_url": "https://www.youtube.com/watch?v=8AzP-6qshBA"
+    },
+    {
+      "act": "Jahtiva",
+      "track": "Wake Up",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6aq3hOc5eJTiektQvqVw8s",
+      "youtube_url": "https://www.youtube.com/watch?v=B3hbD4hbl2I"
+    },
+    {
+      "act": "Jahtiva & F!sh",
+      "track": "Welcome to the Funhouse",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/42DErVupWy6GoEJ9Bt0V2c",
+      "youtube_url": "https://www.youtube.com/watch?v=UCc3Hnm-UhI"
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Lil Bit of Sunshine",
+      "release": "Full Spectrum (2027) — lead single, released Nov 2026",
+      "year": "2027",
+      "spotify_url": "https://open.spotify.com/track/6SHR7QG99fm2nvuk9d2lYM",
+      "youtube_url": "https://www.youtube.com/watch?v=5uOLL7HwveY"
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Preacha (feat. Philieano)",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/6Ge208oYUVPqvvZBC4WATG",
+      "youtube_url": "https://www.youtube.com/watch?v=9fsbDyI4FM0"
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Somewhere",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/2bgY9V6G7Z2O8tog2oWlvB",
+      "youtube_url": "https://www.youtube.com/watch?v=GVNL8frNmjI"
+    },
+    {
+      "act": "Mike Pinto",
+      "track": "The Cool and The Deadly",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3SCUw5rQURYn3yG7J9oKkQ",
+      "youtube_url": "https://www.youtube.com/watch?v=GKJn6b_FMvs"
+    },
+    {
+      "act": "Mix Mob",
+      "track": "Let's Cruise",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0NXJTnNf8MWinmPInChTL9",
+      "youtube_url": "https://www.youtube.com/watch?v=BSQU66QWUsk"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Corona",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7IfXJEMFsYgWZwXIzQdAf1",
+      "youtube_url": "https://www.youtube.com/watch?v=SoG5npr1uE8"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Ganja Man",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3jfkODtqlP6bPKuuWrfupu",
+      "youtube_url": "https://www.youtube.com/watch?v=z-cofajcm6Y"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Greg's Rv",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1BfZzMpDgLuh3uo8D5E6eA",
+      "youtube_url": "https://www.youtube.com/watch?v=Oa5F_VmEeAo"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Interuption",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4kLpZuNEjXPxXTJf4xC7Tv",
+      "youtube_url": "https://www.youtube.com/watch?v=6Hq7wgt7CzU"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Intro",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6G3DuPJ2k15INkFoHNznAJ",
+      "youtube_url": "https://www.youtube.com/watch?v=ixWNoH_QjEs"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Is There Any Love?",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5Of7U23qnwD6AmUVMS6dQ9",
+      "youtube_url": "https://www.youtube.com/watch?v=916xlW5adJk"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Jah Jah",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/296m7u4ktHEh08NEePCxMa",
+      "youtube_url": "https://www.youtube.com/watch?v=7zTvhN5CPOc"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Long Way",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1G6wonHfz9oP0zyNdvMxkW",
+      "youtube_url": "https://www.youtube.com/watch?v=XjVzQUZutfE"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Rider",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3cnzqwRAzN1yyBPK6XXYVr",
+      "youtube_url": "https://www.youtube.com/watch?v=yktCH8Ev0nI"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Sweet Sounds",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6lZaS1EwH9sLgMrbEjhric",
+      "youtube_url": "https://www.youtube.com/watch?v=lX_6Xspic0g"
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Wiseman",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/07qAqRVHQWZHXMLulxQtXG",
+      "youtube_url": "https://www.youtube.com/watch?v=e9k3ulcgI4c"
+    },
+    {
+      "act": "Quinn Archer",
+      "track": "Dark Places",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3YSC139BpSAxvA1Lx6psCp",
+      "youtube_url": "https://www.youtube.com/watch?v=gd7iyNv1qEA"
+    },
+    {
+      "act": "Rebelution",
+      "track": "Just Fine",
+      "release": "Relentless — Thrive (2013) [NOT a Rebelution release]",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/58run7QxnO4zBDH1GobaMU",
+      "youtube_url": "https://www.youtube.com/watch?v=rlLQUcn2rME"
+    },
+    {
+      "act": "Rumble King",
+      "track": "Guilty Man",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/038iupoifBPvpkcDfRxlHT",
+      "youtube_url": "https://www.youtube.com/watch?v=DNRW3kAuSwI"
+    },
+    {
+      "act": "Seedless",
+      "track": "All You Need",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/3rx5q4X4gKOcQ3b1O2XC5O",
+      "youtube_url": "https://www.youtube.com/watch?v=rFQYJNmfSmQ"
+    },
+    {
+      "act": "Seedless",
+      "track": "Baby Don't Go (feat. Essel Liufau)",
+      "release": "Baby Don't Go (single)",
+      "year": "2012",
+      "spotify_url": "https://open.spotify.com/track/3aV3CcFziTeXvPDpgdmzZX",
+      "youtube_url": "https://www.youtube.com/watch?v=y9OY8UGOteI"
+    },
+    {
+      "act": "Seedless",
+      "track": "Friends (feat. Andy Chaves of Katastro)",
+      "release": "Friends (single)",
+      "year": "2013",
+      "spotify_url": "https://open.spotify.com/track/7IEjGniINof1O6aRltu8q7",
+      "youtube_url": "https://www.youtube.com/watch?v=mfPZ8vnlfv4"
+    },
+    {
+      "act": "Seedless",
+      "track": "Love Is A Drug",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/4o6CWX8ODWaWNMaMICJ5xl",
+      "youtube_url": "https://www.youtube.com/watch?v=gazVuNUQSo0"
+    },
+    {
+      "act": "Shakamon",
+      "track": "Chase Dem",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1EPtIgUdwplOHNUYNk9sMA",
+      "youtube_url": "https://www.youtube.com/watch?v=o8O6r9jt_do"
+    },
+    {
+      "act": "Shakamon",
+      "track": "Love Together",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5Vk9CxzD7mfmM2zaG0vDxA",
+      "youtube_url": "https://www.youtube.com/watch?v=suQH5MsJh8k"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Collie Man",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/5igUhyuNinXVuTqtrg300z",
+      "youtube_url": "https://www.youtube.com/watch?v=VsHZf9Yeqhs"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Leaving On A Jet Plane",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/4XkNuevue9XR3i7FSEa0l2",
+      "youtube_url": "https://www.youtube.com/watch?v=TxgPMdJe-j8"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Mellow Mood",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/1BHE0W047kFnie8iGRwhLp",
+      "youtube_url": "https://www.youtube.com/watch?v=UYQj6uUYkbk"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Officer",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/28OkLLntKaxV9Fxk79sQkD",
+      "youtube_url": "https://www.youtube.com/watch?v=TvAc8NX6ufw"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Perfect Gentleman",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/4kMifUXwygSm6OJH6hvzc6",
+      "youtube_url": "https://www.youtube.com/watch?v=_4J3WYHB8aY"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Runnin' With A Gun",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/12mQioUFksRpNJ4hA3mHn6",
+      "youtube_url": "https://www.youtube.com/watch?v=d3bZt4W4XoU"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Sweet Honey",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/741pbTbI91PSEuqp5iTa7F",
+      "youtube_url": "https://www.youtube.com/watch?v=tcB-7T-FfVo"
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Wicked Rebel",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/4TbVW8PhgYbxmDzJmzk7if",
+      "youtube_url": "https://www.youtube.com/watch?v=Ol4vZp2e2iE"
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "Go Where I Please",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7mPGs7L3XpRuUXkwVpFiLm",
+      "youtube_url": "https://www.youtube.com/watch?v=vIFuedPD0Gk"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Can You Feel It (feat. Wiz Khalifa)",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/6vhRmymsQaWhVegaK7aTDe",
+      "youtube_url": "https://www.youtube.com/watch?v=_qDdHZoBgZM"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Lovers Rock",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/1ipmXGK51902ij6SoInw1v",
+      "youtube_url": "https://www.youtube.com/watch?v=4vpOEb6806g"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Murdera",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB",
+      "youtube_url": "https://www.youtube.com/watch?v=HEo8vjGFYxA"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "My World",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/0onulzJzLxij8YqRFX2rxL",
+      "youtube_url": "https://www.youtube.com/watch?v=WymyQ8LcRS4"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Only",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/4YbtI1eBf4RYNGw1foeiOu",
+      "youtube_url": "https://www.youtube.com/watch?v=CEIOSGRBFT8"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Panic",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/3hex9OnMbSDRlHpBHAp5gy",
+      "youtube_url": "https://www.youtube.com/watch?v=JFVx-8XLrLY"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Paper Cuts",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/0LEUhNhf5fo1wonII8fDmI",
+      "youtube_url": "https://www.youtube.com/watch?v=9pfAiLDyQHQ"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "PCH",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/5Spsu9HaYhflfAinaP8uk5",
+      "youtube_url": "https://www.youtube.com/watch?v=YRMNVmGDd7s"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Same Old Situation",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/2FTdkvjYPt6IpoSLsPyZui",
+      "youtube_url": "https://www.youtube.com/watch?v=mnq-ACaMHds"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Spun",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/2glQQps2SfltkzBZ3JW26X",
+      "youtube_url": "https://www.youtube.com/watch?v=OgcinBMBVig"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "Take It or Leave It",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo",
+      "youtube_url": "https://www.youtube.com/watch?v=a6RAr7k2MDo"
+    },
+    {
+      "act": "Sublime with Rome",
+      "track": "You Better Listen",
+      "release": "Yours Truly (2011)",
+      "year": "2011",
+      "spotify_url": "https://open.spotify.com/track/0UjhtgLGvbS8pBgQ4RIihW",
+      "youtube_url": "https://www.youtube.com/watch?v=kW_0hOx000U"
+    },
+    {
+      "act": "The Goodies",
+      "track": "All the Love We Bring",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4xwj4UgJAqVdCpRzmPbvtc",
+      "youtube_url": "https://www.youtube.com/watch?v=CuJINqsMkaQ"
+    },
+    {
+      "act": "The Goodies",
+      "track": "Around The World",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0VA6viEsf0fat2yOs6hKwG",
+      "youtube_url": "https://www.youtube.com/watch?v=uW1jlXX95ls"
+    },
+    {
+      "act": "The Goodies",
+      "track": "Runnin",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5ltysEcBK0FvnSnxSYpN9Z",
+      "youtube_url": "https://www.youtube.com/watch?v=POD9kQWR0LY"
+    },
+    {
+      "act": "The Goodies",
+      "track": "The Maze",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4mMxR6IPwEDf38aQqnWxR0",
+      "youtube_url": "https://www.youtube.com/watch?v=AuPhGydYI3c"
+    },
+    {
+      "act": "The Resinators",
+      "track": "You Got It",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/38pGwcGvBBvAowSp5Vlcel",
+      "youtube_url": "https://www.youtube.com/watch?v=PGTsX_p9mI4"
+    },
+    {
+      "act": "Thrive",
+      "track": "Just Fine",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/58run7QxnO4zBDH1GobaMU",
+      "youtube_url": "https://www.youtube.com/watch?v=rlLQUcn2rME"
+    },
+    {
+      "act": "Vibestrong",
+      "track": "Get Up Jam",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/album/23KTW9F8CuVYyyCqTr1Oj8",
+      "youtube_url": "https://www.youtube.com/watch?v=dNOcpuoUsxo"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Board Meeting",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/37NBTHQXMCEvmq7aLeAS23",
+      "youtube_url": "https://www.youtube.com/watch?v=cguLuZeWnzo"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Island Town",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0A0dzD7J69yrwAOfxJMtlE",
+      "youtube_url": "https://www.youtube.com/watch?v=mdyaDiCI5Kk"
+    },
+    {
+      "act": "80 Proof",
+      "track": "Turn Up the Sound",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=36ZTpAsmgoo"
+    },
+    {
+      "act": "Arise Roots",
+      "track": "Come and Get It (feat. Eric Rachmany)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Qi3DyKkPWww"
+    },
+    {
+      "act": "Buddy Princeton and the Incorruptibles",
+      "track": "Thanks to You — Carlie Wall feat. John Ferraro and Lewis Richards (recorded at 17th Street by Lewis Richards; produced by Fred Rawlins). FILED UNDER BUDDY PRINCETON AND THE INCORRUPTIBLES AS ASSOCIATED WORK — artist of record is Carlie Wall.",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VBdpdfAMNRQ"
+    },
+    {
+      "act": "Cali Conscious",
+      "track": "Grateful",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GZgUUizz6Ps"
+    },
+    {
+      "act": "Cali Conscious",
+      "track": "One Love For You",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=pevR-Hv0Ri4"
+    },
+    {
+      "act": "Capital Dub",
+      "track": "Gunman — Capital Dub & Shakamon",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6ESTYB6Hao19fTtSEooGY0",
+      "youtube_url": null
+    },
+    {
+      "act": "Capital Dub",
+      "track": "Lucy",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1IMBZe5UYjVltdTAV62xEP",
+      "youtube_url": null
+    },
+    {
+      "act": "Cope",
+      "track": "Downfall",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8KvFo5LNF1w"
+    },
+    {
+      "act": "Cope",
+      "track": "This Path",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=azrMYMdQ8N4"
+    },
+    {
+      "act": "Costa Concentrates",
+      "track": "Ganja in the Streets",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yyz2uHPOqck"
+    },
+    {
+      "act": "Del Sol Music",
+      "track": "Your Love (feat. Karim Israel)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=D8zkYVFRkbA"
+    },
+    {
+      "act": "Dirty Heads",
+      "track": "Dance All Night (feat. Matisyahu)",
+      "release": "Cabin by the Sea (2012)",
+      "year": "2012",
+      "spotify_url": null,
+      "youtube_url": "https://youtu.be/O88utffpFSk"
+    },
+    {
+      "act": "Doah's Daydream",
+      "track": "1LOVE",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vkABinwlidA"
+    },
+    {
+      "act": "Dread Kennedy",
+      "track": "Jah Jah",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HMhwnBqDhX4"
+    },
+    {
+      "act": "Dread Kennedy",
+      "track": "The Promise",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8LYY40Cx8SM"
+    },
+    {
+      "act": "Dubbest",
+      "track": "All My Wishes",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8IBZoBomKuk"
+    },
+    {
+      "act": "Dubbest",
+      "track": "Autumn Rain",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=F1rvbaVOlBQ"
+    },
+    {
+      "act": "Dubbest",
+      "track": "Don't Leave Me Out",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DVfAmOmyk4A"
+    },
+    {
+      "act": "Dubbest",
+      "track": "Irreplaceable",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0r3ctxerq_A"
+    },
+    {
+      "act": "Dubbest",
+      "track": "Right Your Wrongs",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=gnJMyLIMq_g"
+    },
+    {
+      "act": "Dubbest",
+      "track": "Slow Burn",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rHM_oYEOoLI"
+    },
+    {
+      "act": "Dubbest",
+      "track": "So Hard Leaving",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Ix9vLCHsghU"
+    },
+    {
+      "act": "Ease Up",
+      "track": "Ease Up - With You | A Take Away Show",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hPw6W5LyrUU"
+    },
+    {
+      "act": "Effie Passero",
+      "track": "Troubled Mind",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8O8TLy2t5kY"
+    },
+    {
+      "act": "El Dub",
+      "track": "Assumptions",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=1t_kI02Jgi0"
+    },
+    {
+      "act": "Elena Ramirez",
+      "track": "Vida De Chocolate",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=mX-gE0NJG-M"
+    },
+    {
+      "act": "Essel (Susie Liufau)",
+      "track": "Baby Don't Go",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=y9OY8UGOteI"
+    },
+    {
+      "act": "Essel Liufau",
+      "track": "Essel Liufau - Stay (OFFICIAL ACOUSTIC) | 17th Street Records",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=mscX98H8f9M"
+    },
+    {
+      "act": "F!sh",
+      "track": "Roosevelt (feat. Shakamon)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=12P-AX2MS78"
+    },
+    {
+      "act": "Fayuca",
+      "track": "Other Lovers (17th Street Dub Remix)' — single, Apr 19, 2020",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=UeYUb52ZJbw"
+    },
+    {
+      "act": "Fayuca",
+      "track": "Valiente Soñador (17Th Street Dubs)' — single, Aug 7, 2026",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0ufSbgk5GHjRfZyDBN24CO",
+      "youtube_url": null
+    },
+    {
+      "act": "Fayuca",
+      "track": "Walk Away (17Th Street Dub Remix)' — single, Apr 27, 2020",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ObvLvNWR2ZM"
+    },
+    {
+      "act": "Fayuca",
+      "track": "White Lies (17Th Street Dub Remix)' — single / 6-song EP, Jun 26, 2020",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lQaBsc3seJk"
+    },
+    {
+      "act": "Fiji",
+      "track": "Tribute to Junior Seau by Fiji with Common Kings LIVE at 17th Street",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xYQFrTKJmZs"
+    },
+    {
+      "act": "Fiji & Common Kings",
+      "track": "Junior Seau tribute (live at 17th Street)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=xYQFrTKJmZs"
+    },
+    {
+      "act": "Fluid Foundation",
+      "track": "Fluid Foundation",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=dOCoT7RLTS8"
+    },
+    {
+      "act": "Fluid Foundation",
+      "track": "Slo Ryde",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=cswwZJZczKU"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "All Night (feat. The Expanders)",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5KQL4wqAOMM"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Be Strong",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fM82k03I7_A"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Don't Think Twice",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Dy5k7jeF490"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Find Your Peace",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=HpWtkdsIRJg"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "FIYA",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2ofcWyLKgT8"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "For You",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=63gd5V55EiY"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "FY",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=PWGkTPGQyJk"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Life To Be Loved",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=4xkYYDbX5NA"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Long One",
+      "release": "Don't Think Twice",
+      "year": "2015",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vCwMwYvLZ_Y"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "No Place Above",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wpL5iJspwQk"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Pleasant Dreams",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KzEoR04qftg"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "So Far Away",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=F-woyi4W_W4"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "T.G.A.B.",
+      "release": "Irie State of Mind",
+      "year": "2011",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=w-SJztO_sYQ"
+    },
+    {
+      "act": "Fortunate Youth",
+      "track": "Wherever We Go",
+      "release": "Fortunate Youth",
+      "year": "2017",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DdWWfxYx80g"
+    },
+    {
+      "act": "Headshine",
+      "track": "Inside Bowl",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5Erq9jzlDBQ3IsSjaKavUA",
+      "youtube_url": null
+    },
+    {
+      "act": "Headshine",
+      "track": "When I See You Smile",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/768U4B1Uq4Qi0tzpXyHVOq",
+      "youtube_url": null
+    },
+    {
+      "act": "Herb N' Life",
+      "track": "Left Alone Dub",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5FsA6Z8yWpM"
+    },
+    {
+      "act": "Herb N' Life",
+      "track": "Mickeys",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=zz1feh10B3U"
+    },
+    {
+      "act": "Inna Vision",
+      "track": "Freedom Fighters",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=QDHlMWhyMrw"
+    },
+    {
+      "act": "Iration",
+      "track": "Back Around (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=S4mKwXdCKHY"
+    },
+    {
+      "act": "Iration",
+      "track": "Falling (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yYVi7q6zmbM"
+    },
+    {
+      "act": "Iration",
+      "track": "Home (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=O6HqRaCQPDc"
+    },
+    {
+      "act": "Iration",
+      "track": "Let Me Inside (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=7PTzyO9Oal0"
+    },
+    {
+      "act": "Iration",
+      "track": "No Time (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ZBtj4Imq3-E"
+    },
+    {
+      "act": "Iration",
+      "track": "One Way Track (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Dv6AyNykn1I"
+    },
+    {
+      "act": "Iration",
+      "track": "Reelin (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=2a6wZBjauBs"
+    },
+    {
+      "act": "Iration",
+      "track": "Summer Nights (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=L-X64CHtSfM"
+    },
+    {
+      "act": "Iration",
+      "track": "Time Bomb (Acoustic)",
+      "release": "Double Up (2016)",
+      "year": "2016",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qQfqAPMhtOM"
+    },
+    {
+      "act": "J.A.M KwesT",
+      "track": "Livin Fine (feat. Pato Banton)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=gU-kOvUToSQ"
+    },
+    {
+      "act": "Jahtiva",
+      "track": "High Maintenance Girl",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7KptmPGjp6efuUHxG0nfuY",
+      "youtube_url": null
+    },
+    {
+      "act": "Jake Hitt",
+      "track": "Ganja Girl",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ArYHD-kgln4"
+    },
+    {
+      "act": "Jake Hitt",
+      "track": "Ganja Girl (2019)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ArYHD-kgln4"
+    },
+    {
+      "act": "Jake Hitt",
+      "track": "Ganja Girl - Jake Hitt",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=t7zhiAUoW8o"
+    },
+    {
+      "act": "Jet West",
+      "track": "Could You Be",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5MV13QMq9pc6biYDslLjnz",
+      "youtube_url": null
+    },
+    {
+      "act": "Jet West",
+      "track": "Wake Up",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4uCaEId4EhhlwFuJixPaI4",
+      "youtube_url": null
+    },
+    {
+      "act": "Jimi Fitz",
+      "track": "I Don't Need This Now",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0U2kCEhCUWwPPWHQTbFGzx",
+      "youtube_url": null
+    },
+    {
+      "act": "Jimi Fitz",
+      "track": "Jimi Fitz (self-titled album, 2013)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=df8LIKtNfEY"
+    },
+    {
+      "act": "John Landry",
+      "track": "Wrong Path",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/01tXGMnKE7ExbreQrQH0ZT",
+      "youtube_url": null
+    },
+    {
+      "act": "Jon Wayne and the Pain",
+      "track": "Follow Through (album)",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/album/346WlDvFfk5cjUhVlbrqJx",
+      "youtube_url": null
+    },
+    {
+      "act": "Juan Rios",
+      "track": "Tribute to Nate Dogg - Performed by Juan Rios - Never Leave Me Alone",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wnD-10bxCog"
+    },
+    {
+      "act": "Kash'd Out",
+      "track": "My Bad' — Rebel ShakeDown & Kash'd Out (2025 single) — the only Lewis Richards / 17th Street-linked Kash'd Out track found, on the writer/composer + production-team-tag evidence above. Nothing from The Hookup, Undercover, Casual Encounters, Butter, Mirage, the EPs, or the Sugarshack live album qualifies on sources reviewed.",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4BHr2V6ygu12ZRJSioBUex",
+      "youtube_url": null
+    },
+    {
+      "act": "Kat Hall",
+      "track": "You Choose",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6ycpiXtGfSKcvDQ09xzMEW",
+      "youtube_url": null
+    },
+    {
+      "act": "Kat Nestel (Katt)",
+      "track": "Lucky One",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_ME0KM6jZJc"
+    },
+    {
+      "act": "KBong",
+      "track": "Soul Remedy' — KBong & Johnny Cosmic (single, Jul 25, 2025; also Spirit Of The Light Track 3)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=synqb8BMF3I"
+    },
+    {
+      "act": "Kyle Smith",
+      "track": "EMPTY on web evidence. No Kyle Smith release carries a located Lewis Richards / 17th Street credit. Sole pending candidate: 'My Friend (feat. Dan Kelly)' (2021), pending confirmation against the local 2019 session notes.",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=14ZhMRhHDhk"
+    },
+    {
+      "act": "Lewis Richards (feat. Ronnie King & Ian Foreman)",
+      "track": "Concrete Jungle",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=aXkCxx5NcBA"
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Dancin",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/37STHgcdJum3d1e5Q9LgrX",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Don't Walk Away",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/4JHPA7TOf37GpGpPkMyOps",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Duppies",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/70l4OLfRO3KV7Prwyyleod",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Fly So High",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/68kEzv2LEP0X8Y8hwVwo3e",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "In This Life",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/6ffueMvbLoc9MIUbcigUWx",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Oh Mamma (feat. Philieano)",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/4yRt0QYzz6lkt6ahSxm8iL",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Precious Time",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/1YiT2BfvjIPXvNcuVh76Fl",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Starting to Believe",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/6ecxbAPMzRUrZGdDfPlF61",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Things You Do",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/00e91HWAamS27zv0KDrg4Q",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Trouble in Here",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/1PAlRjWtho6WcwcJbTNu1u",
+      "youtube_url": null
+    },
+    {
+      "act": "Long Beach Dub Allstars",
+      "track": "Up on the Land",
+      "release": "Echo Mountain High (2023)",
+      "year": "2023",
+      "spotify_url": "https://open.spotify.com/track/7oDVk3WS3wwy3g1wUHYkS8",
+      "youtube_url": null
+    },
+    {
+      "act": "Los Domingueros",
+      "track": "GNY/BG",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=CyqzrDwkj3g"
+    },
+    {
+      "act": "Los Domingueros",
+      "track": "The Change",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=uLyCd0j5SCA"
+    },
+    {
+      "act": "Los Domingueros",
+      "track": "Vida De Chocolate",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=mX-gE0NJG-M"
+    },
+    {
+      "act": "Los Domingueros",
+      "track": "Walking",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=v-1jW1e2mvc"
+    },
+    {
+      "act": "Low Budget",
+      "track": "7Seas / Seven Seas",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7614hxv481mLOskXMKxDgJ",
+      "youtube_url": null
+    },
+    {
+      "act": "Low Budget",
+      "track": "Tonight",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/57mNMiWOJ6MljDqhTnSb0Z",
+      "youtube_url": null
+    },
+    {
+      "act": "Low Budget",
+      "track": "Wasting Time",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0ZsDy9VhVFBZpLdxNizRYG",
+      "youtube_url": null
+    },
+    {
+      "act": "Lukup",
+      "track": "Around The World — The Goodies feat. Lukup",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=uW1jlXX95ls"
+    },
+    {
+      "act": "Lukup",
+      "track": "Give You Tomorrow",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=UBx8lf7vr4k"
+    },
+    {
+      "act": "Lukup",
+      "track": "Lost Coast",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=EzxJgiDOtMg"
+    },
+    {
+      "act": "Man of the Forests",
+      "track": "Ghost Train",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7a3Ly0JH5cSvQRMjiiByX9",
+      "youtube_url": null
+    },
+    {
+      "act": "Maya Burns",
+      "track": "Maya Burns - 2013 - EPK",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=MMY3WFcDP9w"
+    },
+    {
+      "act": "Maya Burns",
+      "track": "Maya Burns - Different Drum",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=rahfzxB2M48"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Bob Marley - Is This Love - Micah Brown cover",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fLhPKYGpctE"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Everly Brothers - All I Have To Do Is Dream - Micah Brown cover",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-Z2HUoQAv34"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Is This Love",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fLhPKYGpctE"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Jimi Hendrix - Little Wing - Micah Brown cover",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-MRa1P2_3ds"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Little Wing",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-MRa1P2_3ds"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Lynyrd Skynyrd - Simple Man - Micah Brown cover (happy birthday Mom)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=i30bCXPTHTU"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Micah Brown - All That You Need (feat. Susie & Matt Liufau)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yVNK5m-8VWk"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Micah Brown - Coming of Age (OFFICIAL)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=aY43venXmcE"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Micah Brown - Finally Free (OFFICIAL)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0hBI6iuljho"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Micah Brown - Good Feelings Acoustic (live at 17th Street Records)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6irBopDU7Dg"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Micah Brown - This Christmas - ORIGINAL SONG",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=c9IG9qTmBzU"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Micah Brown - You and I - Single - AUDIO",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qq0rpWLa5Pg"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "Neil Young \"Old Man\" cover - Nasambu & Micah Brown | 17th Street Records",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=nHFNRFfHIQk"
+    },
+    {
+      "act": "Micah Brown",
+      "track": "You and I",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=qq0rpWLa5Pg"
+    },
+    {
+      "act": "Mike Pinto",
+      "track": "Everything I Got",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lSDuxE3jGww"
+    },
+    {
+      "act": "Mike Pinto",
+      "track": "Fears and Phobias",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ihCIyOpf_WA"
+    },
+    {
+      "act": "Mike Pinto",
+      "track": "Feet Don't Fail Me Now",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=9ygYw2IhmMU"
+    },
+    {
+      "act": "Mike Pinto",
+      "track": "The West is Still Wild",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Gd_jeAWtv-c"
+    },
+    {
+      "act": "Mike Pinto",
+      "track": "Turn You On",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hh7SDQRyi7U"
+    },
+    {
+      "act": "My Ruca",
+      "track": "Creep",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=XKl3oKocnV0"
+    },
+    {
+      "act": "My Ruca",
+      "track": "Rumors",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Al1nxl0xcZM"
+    },
+    {
+      "act": "New Reb",
+      "track": "All by My Lonesome",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2RcThGlvYekRPLlR1SVJVS",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Darklight",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7MYyw24Ia09zZAHOPnIZOR",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Deep Down in Zion",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3Ae3rkK9ZogUdTBeyLpNn9",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Experience",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3F7tF8diUuqhlGeHN797uz",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Feel It",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2wD1uGWH5k2vQZrgNBEq20",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Fly Away",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4kU5HB14AmesdB7L7jlzG1",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Good Sensimilla",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0NcY1HPfldYiOerYaAz1u3",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "In My Nature",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6V9lt3cgjvPQ3VaLvkGKZi",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Malama Aina",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/09pkq7HG6lwTXdocIrr0jO",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Mobbin' Out",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/64ipcf5ia1SnHvCCRzHE7g",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "New Love",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3It9409KTh1u7sMmMyyke9",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Nonsense",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1IJzAbkwY41O3Dxy9bWxPD",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Reset",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1nOwhECVWlaLVsRZJYkCOp",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "The Clean Up",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6YTg0HfCLh0GzPfbnD4hdB",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Thrive",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2FBje55ecvMteFC6RanK7O",
+      "youtube_url": null
+    },
+    {
+      "act": "New Reb",
+      "track": "Vision",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5hfaj8PlCGbafcn5a15BIl",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Blazin Collie",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4ntqkdpvD67kpm5XfV81Yw",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Burn",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1noPRbFXsscm07JF5N1IUt",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Dancehall",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5bDTuZcS8kys5tSu1mcj7r",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Johnny's Beach House",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7vc4Wr4Z19snLUlVCs1PXZ",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Lyfe - A - Music",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1vR9ncQaTQ5ZAsyOFJO5CH",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Still Dreamin",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2eAwVmNQfgi8Ao3XcyPM07",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Sundowner",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0zJHJLqjBu3foyJQnQhv3z",
+      "youtube_url": null
+    },
+    {
+      "act": "Nice & Swell",
+      "track": "Underneath",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0XxcuWgryuc07LjOFliFfI",
+      "youtube_url": null
+    },
+    {
+      "act": "Nick Sabia",
+      "track": "Don't worry Be Happy - Mic Dangerously , Nick Sabia and Kale Stiles",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3NIgiE6QyZU"
+    },
+    {
+      "act": "Nick Sabia",
+      "track": "Free Fallin' - Tom Petty cover by Nick Sabia",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=biz5vJZjeZg"
+    },
+    {
+      "act": "Nick Sabia",
+      "track": "If You Were The Rain - Nick Sabia",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=uQ7uxmElgOg"
+    },
+    {
+      "act": "Nick Sabia",
+      "track": "The Christmas Song by Nick Sabia and Lewis Richards (Nat King Cole) Cover",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FcSiWV1u50E"
+    },
+    {
+      "act": "One Draw",
+      "track": "Everything Will Be Alright",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fYSqLeN9x5U"
+    },
+    {
+      "act": "Pacific Dub",
+      "track": "The Summer Singles (2014) — 2014 studio singles sessions, session-grade; 'Listen Up' is the named single",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=caRjPESpFaQ"
+    },
+    {
+      "act": "Pacific Dub",
+      "track": "Wasted",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5B0EwKmFnRJezhM03sUNCU",
+      "youtube_url": null
+    },
+    {
+      "act": "Papafish",
+      "track": "CAKE \"Never There\" - Papafish Live Acoustic Cover | 17th Street Records",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3WAtBbh0ulY"
+    },
+    {
+      "act": "Papafish",
+      "track": "Never There",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=3WAtBbh0ulY"
+    },
+    {
+      "act": "Phat Reggae Dub Status",
+      "track": "BACK to the Pad",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VdKQBqSZM18"
+    },
+    {
+      "act": "Philieano",
+      "track": "elephant in the room",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=LzDIoLDaJJQ"
+    },
+    {
+      "act": "Philieano",
+      "track": "FIRE 1UP — Lewis Richards guitar + mastering",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DFEp-dBji90"
+    },
+    {
+      "act": "Philieano",
+      "track": "The Falcon and the Snowman (feat. 2Mex) — Lewis Richards mastering",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=y5ZID2FyAjQ"
+    },
+    {
+      "act": "Pilot Touhill",
+      "track": "Pilot Touhill - One Thing (Acoustic)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=tJBl1KuFZxw"
+    },
+    {
+      "act": "Project Out of Bounds (POB)",
+      "track": "Po'ipū",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ob0BrZoVYlI"
+    },
+    {
+      "act": "Rebel Shakedown",
+      "track": "Don't Rock My Boat",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=8YHcGUHbFIc"
+    },
+    {
+      "act": "Rebel ShakeDown",
+      "track": "Fire Up (feat. Dubbest)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=4TOlkAkldiU"
+    },
+    {
+      "act": "Rebel Shakedown",
+      "track": "Fire Up feat. Dubbest",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=4TOlkAkldiU"
+    },
+    {
+      "act": "Rebel Shakedown",
+      "track": "Icon",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2Odx5YODJOovxe9KkOBtFe",
+      "youtube_url": null
+    },
+    {
+      "act": "Rebel Shakedown",
+      "track": "My Bad with Kash'd Out",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6xzbi1OWIRc"
+    },
+    {
+      "act": "Rebel Shakedown",
+      "track": "Rewind",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=VHh_UPjJ_AM"
+    },
+    {
+      "act": "Rebel Shakedown",
+      "track": "The Sound",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=zzt8ZffI-aI"
+    },
+    {
+      "act": "Rebel Shakedown",
+      "track": "World on Fire (EP)",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=JIzSaeHnQgQ"
+    },
+    {
+      "act": "Rebelution",
+      "track": "Come and Get It",
+      "release": "Pathways — Arise Roots (2020) [NOT a Rebelution release]",
+      "year": "2020",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Juvsng0WJsc"
+    },
+    {
+      "act": "Roots of Mine",
+      "track": "Another Way",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6y7EyuxQDNxZK9mRVxymJy",
+      "youtube_url": null
+    },
+    {
+      "act": "Roots of Mine",
+      "track": "Fire on the Mountain (feat. Chloe Bean)",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3STF2yOc2EvswtP65qvtbU",
+      "youtube_url": null
+    },
+    {
+      "act": "Roots of Mine",
+      "track": "My Connect (feat. Dan Kelly)",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2NNrS2FnKs2uWmRGiL0vEm",
+      "youtube_url": null
+    },
+    {
+      "act": "Roots of Mine",
+      "track": "Something's Got to Give (feat. Dread Kennedy)",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7JjbfBttN2dnFdurBExIJ6",
+      "youtube_url": null
+    },
+    {
+      "act": "Rumble King",
+      "track": "Chasin' the Blues",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=P9lMqNwj_us"
+    },
+    {
+      "act": "Rumble King",
+      "track": "Chasin' the Blues — 2026",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4kNKi9mDEfElkcRVoGkwHj",
+      "youtube_url": null
+    },
+    {
+      "act": "Rumble King",
+      "track": "Guilty Man (feat. Dan Kelly + Ry Bradley) — 2026",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/038iupoifBPvpkcDfRxlHT",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "911",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/4sLPX4I4NTVD7EMbhSTXWl",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Banana Tree",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/2zWvZTeiLhe3dPkbfGhYfT",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Borrowed Time",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/7JsM6yplUVpwYV5QMplYLi",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Bullet",
+      "release": "Bullet (single)",
+      "year": "2014",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=PT4SrKa03GY"
+    },
+    {
+      "act": "Seedless",
+      "track": "Christina",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6xrKU6esjAFtMlXB0x8nZc",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Cold Sweat (feat. Massive McGregor)",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/3xBsATVbwZMVVkxTS6BFFo",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Come Be Free",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/4POKJUale8rIq20rFdBzl5",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Energy",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/7MeFaspAlXHeYmsOyLX0M1",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Fathom",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/7jSKQoBl52W3VQAxzE9jD6",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Harmony",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/0p2uMDOEnpWjonquXBGlmV",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Heart Of A Warrior",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/0SHA3He1cH8HFY1ynMfFna",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "House A Home",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6wJ3S47owcBKHJrz8iIlR7",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "I Want To Know (feat. Dan Kelly of Fortunate Youth)",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/6oXOp1skehhMVBXUdOb18g",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "In Time",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/14LvDEnVXkUjWUXFSFPXWL",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "It's Always Something",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/2zxJudxagliSy5N5Y0yqr7",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Let It Be",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/6cIpjhh9XGnn9MFRsXEBUf",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Love Crime",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/6bNoKIFSAOnq4BorO01vKi",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "March",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/4uUwSR6PYNn2t5u9GAQu3G",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Reggae Party",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6MWUkxuZfseXpdOLVBmKNa",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Rise Up",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/1jasFbbKxQ2Il139SxOYCs",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "The Light (feat. Dan Kelly)",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/31p5Hwd6SPvlAtye02MclI",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "The Story",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/4sHPBPKR3g9pv4bivt9EJ2",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Turn Bass Down",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/4cFZPyKGqF4oMF0PL612V5",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Twisted Love",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/5Nc1zAAmAovJPwKrryR4Y9",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Two Weeks",
+      "release": "Twisted Roots",
+      "year": "2010",
+      "spotify_url": "https://open.spotify.com/track/6aFWqHwTbhXdwpyNhEbu2C",
+      "youtube_url": null
+    },
+    {
+      "act": "Seedless",
+      "track": "Where Did You Go?",
+      "release": "The Orange Album",
+      "year": "2016",
+      "spotify_url": "https://open.spotify.com/track/1b3kkre5J4zjoCg1054tfO",
+      "youtube_url": null
+    },
+    {
+      "act": "Shakamon",
+      "track": "Blessed (feat. Josh Heinrichs)",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2MYmA8lqbvMg5JKFnysZrW",
+      "youtube_url": null
+    },
+    {
+      "act": "Shakamon",
+      "track": "Costa Concentrates EP",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/album/7vDkHkXX5bEbfNeko8ALtM",
+      "youtube_url": null
+    },
+    {
+      "act": "Slaves to Humanity",
+      "track": "I'm Alive",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3xlev0tAFgk94niFEJdu9D",
+      "youtube_url": null
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Everything You Need",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/4PVQeTh7bIuaRA0Be7I2OJ",
+      "youtube_url": null
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Killin' Me Deep Inside",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/3GbbrNBJqbfmSgszOZhQew",
+      "youtube_url": null
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Punk Rock Billy",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/367NVhswK61pRMi2NnQNdL",
+      "youtube_url": null
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Questionable",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/3gA3FNKa87Os77iAJqQOHQ",
+      "youtube_url": null
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "Wiseman",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/1qszfqHW6qnFZLxgHorIgQ",
+      "youtube_url": null
+    },
+    {
+      "act": "Slightly Stoopid",
+      "track": "World Goes Round",
+      "release": "Everything You Need (2003)",
+      "year": "2003",
+      "spotify_url": "https://open.spotify.com/track/78ZMeNJ25K0KkMrFrbvdlK",
+      "youtube_url": null
+    },
+    {
+      "act": "Sono Vero",
+      "track": "Roses for the Reckless EP",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Q_DhiYp8VxA"
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "All About the Music",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/6ySQEIJvjtiAba0Q8IXSmU",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "All Over Again",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0ItzYeyebqHOc0iynY9uZn",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "California Sun",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4tmjKRvu0nS99NBoIIfoW7",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "Colitas",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/70t7iSP3CrujAvl37Xz6xu",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "Earth Keeps Spinning",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/4qkgwoRBMmIb3JmzcCnEDF",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "It's Alright",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/0GGIdJ0liaYoDFHwsRQMtc",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "Jimi",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3ysWILc62UR77t1pLqbGzh",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "On the Low",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2PPLFYtgDhbSCqZACM1kJp",
+      "youtube_url": null
+    },
+    {
+      "act": "South Swell Syndicate",
+      "track": "Routine",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/2JdSB4AEtsybjFNXm6slTg",
+      "youtube_url": null
+    },
+    {
+      "act": "Stone Ave Revue",
+      "track": "Lose Control",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hRCNLOB-r_w"
+    },
+    {
+      "act": "Swingin' Johnny",
+      "track": "Concrete Jungle",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/5vvTI3mMHba6Lfmc52cHCw",
+      "youtube_url": null
+    },
+    {
+      "act": "The B Foundation",
+      "track": "Take Some Time",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DIb22R8iszI"
+    },
+    {
+      "act": "The Doobie Raider",
+      "track": "Elephant in the Room",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=oy-SZ1ztCf0"
+    },
+    {
+      "act": "The Good Tones",
+      "track": "Beautiful Girls",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=bdfSQnSZVfM"
+    },
+    {
+      "act": "The Goodies",
+      "track": "All The Love",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=CuJINqsMkaQ"
+    },
+    {
+      "act": "The Goodies",
+      "track": "Keep On Movin",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/3zv1fYRQ6Z22HXo5LkEFOx",
+      "youtube_url": null
+    },
+    {
+      "act": "The Originalites",
+      "track": "Spinning Round The Originalites",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ePF4406gtDI"
+    },
+    {
+      "act": "The Originalites",
+      "track": "The Originalites - I Can't Rewind | OFFICIAL VIDEO | 17th Street Records",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=6Jjy_fJdmzQ"
+    },
+    {
+      "act": "The Side Deal",
+      "track": "The One That Got Away",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=iuEAcH5SzFo"
+    },
+    {
+      "act": "The Tones",
+      "track": "Burn",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/album/7KuUo7dzzxqVTaJhSkjRbe",
+      "youtube_url": null
+    },
+    {
+      "act": "The Tones",
+      "track": "Endless Supply",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/album/7KuUo7dzzxqVTaJhSkjRbe",
+      "youtube_url": null
+    },
+    {
+      "act": "The Tones",
+      "track": "GREY SWEATPANTS",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=5IlgNDaSrP4"
+    },
+    {
+      "act": "The Tones",
+      "track": "Two Weeks Notice",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=maA_uV2f5nI"
+    },
+    {
+      "act": "Thicker Than Thieves",
+      "track": "Storm Will Pass",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1cE8SrqhMdK3MWln8HuR3l",
+      "youtube_url": null
+    },
+    {
+      "act": "Tim Hayn",
+      "track": "Finally Free",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=0hBI6iuljho"
+    },
+    {
+      "act": "Tim Hayn",
+      "track": "Tim Hayn - Life Outside",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=a6tPZRzEzqk"
+    },
+    {
+      "act": "Tim Hayn",
+      "track": "We All Are Free",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=I6Vj8L-slhk"
+    },
+    {
+      "act": "Tim Hayn",
+      "track": "We All Are Free by Tim Hayn",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=I6Vj8L-slhk"
+    },
+    {
+      "act": "Vibestrong",
+      "track": "Cool Love",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FBqIBDAyw-o"
+    },
+    {
+      "act": "Vibestrong",
+      "track": "Kings Medley",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=ew-j9e1li_4"
+    },
+    {
+      "act": "Vibestrong",
+      "track": "Rise",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=o1Wj0OGCYlc"
+    },
+    {
+      "act": "Vibestrong",
+      "track": "This Music",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=V5aMs_wB8Qk"
+    },
+    {
+      "act": "Villebillies",
+      "track": "Fill My Cup",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/7tyTH4yTyxCXFjOm6OO1D3",
+      "youtube_url": null
+    },
+    {
+      "act": "Villebillies",
+      "track": "Holy Water",
+      "release": "",
+      "year": "",
+      "spotify_url": "https://open.spotify.com/track/1YhHs4F7wR2RSqOwVAr6jY",
+      "youtube_url": null
+    },
+    {
+      "act": "Vince Lui",
+      "track": "Heads On Fire",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=R9BP1wnr3i4"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Fly",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=tH3YzvdK-mQ"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Havana Daydreamin",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=KcAIBosadlY"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Made in Mexico",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=XvLmdburFYg"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Pacific Vibration",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vZJorarqyBM"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Paradise is a Moment",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=LOsJyvWaHi8"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "RVCA Shirt",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=25bkTcSkOkk"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Song to the Sun",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=dbUfU7YJ1io"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "Watching Waves",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=l7v53EjKnqg"
+    },
+    {
+      "act": "Wheeland Brothers",
+      "track": "When I'm With You",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=s1v_BDE7wwo"
+    },
+    {
+      "act": "Zen Robbi",
+      "track": "Disco Addict",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=gsunqv11m8w"
+    },
+    {
+      "act": "Zen Robbi",
+      "track": "Lazy Boy",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=W3rw6mf9XBc"
+    },
+    {
+      "act": "Zen Robbi",
+      "track": "My Baby",
+      "release": "",
+      "year": "",
+      "spotify_url": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wvdIjCi2tmA"
+    }
+  ]
+}
